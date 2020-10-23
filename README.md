@@ -14,7 +14,7 @@ This is a 'template repository.' Just click that big green button to start using
 
 ## How To Use
 
-`npm i` to get all the things installed.
+Run `npm i` to get all the things installed.
 
 Ideally, you'll run this from 2 different terminal instances.
 
@@ -26,11 +26,11 @@ Essentially, you just code and if you've set all the things up correctly, you wi
 
 ## 🎶
 
-- For fonts, I set ['Victor Mono'](https://rubjo.github.io/victor-mono/) by default. You might also install: ['Inconsolata'](https://fonts.google.com/specimen/Inconsolata) or ['Source Code Pro'](https://fonts.google.com/specimen/Source+Code+Pro) - or complete change that in '.vscode/settings.json,' _if you know what you are doing! ⚠️_
+- For fonts, I set ['Victor Mono'](https://rubjo.github.io/victor-mono/) by default. You might also install: ['Inconsolata'](https://fonts.google.com/specimen/Inconsolata) or ['Source Code Pro'](https://fonts.google.com/specimen/Source+Code+Pro) - or completely change that in '.vscode/settings.json', _if you know what you are doing! ⚠️_
 - As you get more comfortable, of course you can modify all the things as you C fit.
 
 ### Questions/Issues
 
 Reach me on [Twitter](https://twitter.com/GoCodeFinity) for ❓s or discussion.
 
-If it's an actual issue...[open 1.](https://github.com/manavm1990/node-starter/issues)
+If it's an actual issue... [open 1](https://github.com/manavm1990/node-starter/issues).
