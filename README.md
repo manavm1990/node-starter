@@ -20,7 +20,7 @@ Ideally, you'll run this from 2 different terminal instances.
 
 In one terminal, you do: `npm run watch`. This will watch the files in [src](/src). This is where you would do your coding.
 
-In the other terminal: `npm run serve`. This will execute the [dist/main.js](/dist/main.js) that webpack builds for you.
+In the other terminal: `npm run serve`. This will execute the `dist/main.js` that webpack builds for you.
 
 Essentially, you just code and if you've set all the things up correctly, you will get alerted whenever there is something 'bad' in your code based on some industry-standard best practices 🦄.
 
