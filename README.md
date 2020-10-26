@@ -8,7 +8,7 @@ This is a 'template repository.' Just click that big green button to start using
 - [![Code Style](https://badgen.net/badge/code%20style/airbnb/ff5a5f?icon=airbnb)](https://github.com/airbnb/javascript)
 - [`husky`](https://www.npmjs.com/package/husky) is also there to help check over code quality with the linters b4 there is a successful `commit`.
 - [`webpack`](https://www.npmjs.com/package/webpack) to allow the use of modern [EcmaScript Modules](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/)
-- Various VS Code 'settings' and 'extensions'. Look in the bottom right when you open this up in VS Code to install them.
+- Various VS Code 'settings' and 'extensions.' Look in the bottom right when you open this up in VS Code to install them.
 - [Kite 🪁](https://www.kite.com/javascript/) is also included. I personally recommend it, but it's certainly not compulsory to set this up.
 - Probably some other stuff I'm 4getting about for now 🤷🏽‍♂️
 
@@ -33,4 +33,4 @@ Essentially, you just code and if you've set all the things up correctly, you wi
 
 Reach me on [Twitter](https://twitter.com/GoCodeFinity) for ❓s or discussion.
 
-If it's an actual issue... [open 1](https://github.com/manavm1990/node-starter/issues).
+If it's an actual issue... [open 1.](https://github.com/manavm1990/node-starter/issues)
