@@ -6,10 +6,11 @@ module.exports = {
   extends: ["airbnb-base", "plugin:node/recommended", "prettier"],
   parserOptions: {
     ecmaVersion: 2020,
-    sourceType: "module"
+    sourceType: "module",
   },
   rules: {
     "array-callback-return": "warn",
+    "arrow-body-style": "warn",
     "import/no-unresolved": [
       1,
       {
@@ -26,11 +27,18 @@ module.exports = {
     "no-debugger": "warn",
     "no-param-reassign": "warn",
     "no-plusplus": ["error", { allowForLoopAfterthoughts: true }],
-    "no-unused-vars": ["warn", {
-      argsIgnorePattern: "^_",
-      varsIgnorePattern: "^_" }],
-    "node/no-unsupported-features/es-syntax": ["warn", {
-      "ignores": ["modules"]
-    }]
+    "no-unused-vars": [
+      "warn",
+      {
+        argsIgnorePattern: "^_",
+        varsIgnorePattern: "^_",
+      },
+    ],
+    "node/no-unsupported-features/es-syntax": [
+      "warn",
+      {
+        ignores: ["modules"],
+      },
+    ],
   },
 };
