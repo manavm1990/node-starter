@@ -42,8 +42,8 @@
     }
   },
   "lint-staged": {
-    "*.js": "eslint --cache --fix",
-    "*.{js,css,md}": "prettier --write"
+    "**/*.js": "eslint --cache --fix",
+    "**./{js,md}": "prettier --write"
   },
   "dependencies": {
     "dotenv": "^8.2.0"
