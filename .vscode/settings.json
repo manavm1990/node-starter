@@ -23,7 +23,6 @@
   "files.trimTrailingWhitespace": true,
   "javascript.validate.enable": false,
   "prettier.requireConfig": true,
-  "stylelint.enable": true,
   "terminal.integrated.fontFamily": "'Inconsolata', 'Source Code Pro', monospace",
   "workbench.colorTheme": "Material Theme",
   "workbench.enableExperiments": false,
