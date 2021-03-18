@@ -18,6 +18,7 @@ Use of this starter template assumes that you have a 'complete dev environment' 
 - Various VS Code 'settings' and 'extensions.' Look in the bottom right when you open this up in VS Code to install them.
 - [Kite 🪁](https://www.kite.com/javascript/) is also included. I personally recommend it, but it's certainly not compulsory to set this up.
 - Directories 📂 with 'index.js' files as a suggested architecture. **See comments in those files for addl. info.**
+- `dotenv` is also there!
 
 ## How To Use
 
