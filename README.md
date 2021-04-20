@@ -9,16 +9,15 @@ Use of this starter template assumes that you have a 'complete dev environment' 
 
 ## Node Starter
 
-## What's Included
+## Some of What's Included
 
 - [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
-- [![Code Style](https://badgen.net/badge/code%20style/airbnb/ff5a5f?icon=airbnb)](https://github.com/airbnb/javascript). I have adjusted this slightly as per [this `commit`](https://github.com/manavm1990/node-starter/commit/ff1ed419d3ed411683b404b1cc6e221c859b0d33). More may be forthcoming as _feedback and [PRs](https://github.com/swic-cis-177/mt-project-studentloganbutler/pulls) trickle in._
-- [`husky`](https://www.npmjs.com/package/husky) is also there to help check over code quality with the linters b4 there is a successful `commit`.
-- [`webpack`](https://www.npmjs.com/package/webpack) to allow the use of modern [EcmaScript Modules](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/)
+- [![Code Style](https://badgen.net/badge/code%20style/airbnb/ff5a5f?icon=airbnb)](https://github.com/airbnb/javascript).
 - Various VS Code 'settings' and 'extensions.' Look in the bottom right when you open this up in VS Code to install them.
 - [Kite 🪁](https://www.kite.com/javascript/) is also included. I personally recommend it, but it's certainly not compulsory to set this up.
 - Directories 📂 with 'index.js' files as a suggested architecture. **See comments in those files for addl. info.**
 - `dotenv` is also there!
+- `.vscode/launch.json` includes debugging 🐛 support. **Make sure `nodemon` is globally installed: `npm install -g nodemon`.**
 
 ## How To Use
 
