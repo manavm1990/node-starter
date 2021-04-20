@@ -5,13 +5,18 @@
   "version": "0.2.0",
   "configurations": [
     {
-      "type": "pwa-node",
+      "console": "integratedTerminal",
+      "internalConsoleOptions": "neverOpen",
+      "name": "nodemon",
+      "outFiles": ["${workspaceFolder}/dist/**/*.js"],
+      "program": "${workspaceFolder}/dist/main.js",
       "request": "launch",
-      "name": "Launch Program",
-      "skipFiles": [
-        "<node_internals>/**"
-      ],
-      "program": "${workspaceFolder}/app.js"
+      "restart": true,
+      "runtimeExecutable": "nodemon",
+      "skipFiles": ["<node_internals>/**"],
+      "smartStep": true,
+      "stopOnEntry": true,
+      "type": "pwa-node"
     }
   ]
 }
