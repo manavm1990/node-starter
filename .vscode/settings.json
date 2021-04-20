@@ -1,6 +1,7 @@
 {
   "better-comments.highlightPlainText": true,
   "css.validate": false,
+  "debug.javascript.autoAttachFilter": "smart",
   "debug.showBreakpointsInOverviewRuler": true,
   "editor.accessibilitySupport": "off",
   "editor.codeActionsOnSave": {
