@@ -5,7 +5,7 @@ Use of this starter template assumes that you have a 'complete dev environment' 
 1. Click that big green button to start using it.
 2. `clone` your new repo from your GitHub to your local computer
 3. `cd` into the `clone`d repo and enter: `npm i`.
-4. In one terminal instance, run `npm run webpback`. In another terminal instance (in the same directory), run `npm start`. **⚠️ The order in which you do this matters!**
+4. `npm start`
 
 ## Node Starter
 
@@ -25,21 +25,11 @@ Run `npm i` to get all the things installed.
 
 Ideally, you'll run this from 2 different terminal instances.
 
-In one terminal, you do: `npm run webpack`. This will watch the files in [src](/src). This is where you would do your coding.
-
-In the other terminal: `npm start`. This will execute the `dist/main.js` that webpack builds for you.
-
 Essentially, you just code and if you've set all the things up correctly, you will get alerted whenever there is something 'bad' in your code based on some industry-standard best practices 🦄.
 
 ---
 
 **Don't 4get to ~~drink your Ovaltime~~ update `"name"`, `"description"`, `"author"`, etc. in 'package.json' when using this for your stuff.**
-
----
-
-['webpack.config.js'] is configured to allow 'absolute imports.' This means that, for example in 'index.js,' you could do: `import api from "api";`, w/o worrying about `../` spit. **If you end up removing 🔥 directories 📂, you may need to also see the 'TODO' in '.eslintrc.js'**
-
-Note that you may still see warnings about 'unsresolved imports' as 'ES Lint' is not able to tell that we have 'webpack' taking care of 'absolute' imports. To avoid this, see [here](https://github.com/manavm1990/node-starter/blob/e4db218aa836b68fccc0c052908b01e2d8e9c407/.eslintrc.js#L15)
 
 ## 🎶
 
@@ -54,5 +44,3 @@ Use the 'comments' section of the [Dev post](https://dev.to/codefinity/node-noob
 If it's an actual issue... [open 1.](https://github.com/manavm1990/node-starter/issues)
 
 Contributions welcome. No specific guidelines at this point - just common sense - specific tasks, good `commit` messages, etc. Feel free to LMK of any doubts or queries.
-
-I do prefer `commit` messages that use [gitmoji](https://gitmoji.carloscuesta.me/). Also, using those sort of helps with 'categorizing' and 'separating' `commit`s appropriately.
