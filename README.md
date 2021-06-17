@@ -23,9 +23,7 @@ Use of this starter template assumes that you have a 'complete dev environment' 
 
 Run `npm i` to get all the things installed.
 
-Ideally, you'll run this from 2 different terminal instances.
-
-Essentially, you just code and if you've set all the things up correctly, you will get alerted whenever there is something 'bad' in your code based on some industry-standard best practices 🦄.
+`npm start` will watch the `app` directory for any changes using `nodemon`
 
 ---
 
