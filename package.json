@@ -6,9 +6,10 @@
   },
   "description": "Node Starter Repo",
   "private": true,
+  "main": "src/index.js",
+  "type": "module",
   "scripts": {
-    "start": "nodemon dist/main.js",
-    "webpack": "webpack",
+    "start": "node src/index.js",
     "prepare": "husky install"
   },
   "repository": {
