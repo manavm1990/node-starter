@@ -1,9 +1,5 @@
 {
   "better-comments.highlightPlainText": true,
-  "css.validate": false,
-  "debug.javascript.autoAttachFilter": "smart",
-  "debug.showBreakpointsInOverviewRuler": true,
-  "editor.accessibilitySupport": "off",
   "editor.codeActionsOnSave": {
     "addMissingImports": true,
     "source.fixAll": true,
@@ -13,7 +9,6 @@
   "editor.fontFamily": "'Victor Mono', 'Inconsolata', 'Source Code Pro', Menlo, Monaco, 'Courier New', monospace",
   "editor.fontLigatures": true,
   "editor.formatOnSave": true,
-  "editor.minimap.enabled": false,
   "editor.linkedEditing": true,
   "editor.scrollBeyondLastColumn": 2,
   "editor.smoothScrolling": true,
@@ -27,9 +22,6 @@
   "prettier.requireConfig": true,
   "terminal.integrated.fontFamily": "'Inconsolata', 'Source Code Pro', monospace",
   "workbench.colorTheme": "Material Theme",
-  "workbench.enableExperiments": false,
   "workbench.iconTheme": "material-icon-theme",
-  "workbench.view.alwaysShowHeaderActions": true,
-  "ponicode.testSettings.testLocation.locationType": "Same folder as source file",
-  "ponicode.testSettings.testLocation.path": "{rootDir}/{filePath}/{fileName}.test.{ext}"
+  "workbench.view.alwaysShowHeaderActions": true
 }

@@ -2,23 +2,14 @@
   "recommendations": [
     "2gua.rainbow-brackets",
     "aaron-bond.better-comments",
-    "christian-kohler.npm-intellisense",
-    "codezombiech.gitignore",
-    "coenraads.bracket-pair-colorizer-2",
     "dbaeumer.vscode-eslint",
     "esbenp.prettier-vscode",
-    "kisstkondoros.vscode-gutter-preview",
-    "kiteco.kite",
     "mgmcdermott.vscode-language-babel",
-    "ms-vsliveshare.vsliveshare",
-    "naumovs.color-highlight",
     "oderwat.indent-rainbow",
     "pkief.material-icon-theme",
-    "plievone.vscode-template-literal-editor",
     "equinusocio.vsc-material-theme",
     "stkb.rewrap",
     "streetsidesoftware.code-spell-checker",
-    "tyriar.sort-lines",
     "visualstudioexptteam.vscodeintellicode"
   ]
 }
