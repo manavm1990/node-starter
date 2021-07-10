@@ -2,7 +2,7 @@
   "name": "node-starter",
   "version": "1.0.0",
   "engines": {
-    "node": ">=14.0.0"
+    "node": ">=14.7.3"
   },
   "description": "Node Starter Repo",
   "private": true,
