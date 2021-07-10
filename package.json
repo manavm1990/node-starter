@@ -11,19 +11,11 @@
   "scripts": {
     "start": "nodemon --watch app/index.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/manavm1990/node-starter"
-  },
   "keywords": [
     "nodejs"
   ],
   "author": "Manav Misra",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/manavm1990/node-starter/issues"
-  },
-  "homepage": "https://github.com/manavm1990/node-starter#readme",
   "devDependencies": {
     "eslint": "^7.30.0",
     "eslint-config-prettier": "^8.3.0",
