@@ -28,3 +28,5 @@ Run `npm i` to get all the things installed.
 
 - For fonts, I set ['Victor Mono'](https://rubjo.github.io/victor-mono/) by default. You might also install: ['Inconsolata'](https://fonts.google.com/specimen/Inconsolata) or ['Source Code Pro'](https://fonts.google.com/specimen/Source+Code+Pro) - or completely change that in [.vscode/settings.json](/.vscode/settings.json), _if you know what you are doing! ⚠️_
 - As you get more comfortable, of course you can modify all the things as you C fit.
+- For an icon theme, look up: "pkief.material-icon-theme",
+- You should certainly accept and install the extensions if prompted to do so in the **bottom right of your screen.** Also, make sure that you enable ESLint in the bottom right. It's sometimes disabled for faux security 🔒 reasons.
