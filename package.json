@@ -9,7 +9,7 @@
   "main": "app/index.js",
   "type": "module",
   "scripts": {
-    "start": "nodemon --watch app/index.js"
+    "start": "nodemon -I --watch app/index.js"
   },
   "keywords": [
     "nodejs"
