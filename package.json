@@ -6,10 +6,10 @@
   },
   "description": "Node Starter Repo",
   "private": true,
-  "main": "src/index.js",
+  "main": "app/index.js",
   "type": "module",
   "scripts": {
-    "start": "nodemon --watch app"
+    "start": "nodemon --watch app/index.js"
   },
   "repository": {
     "type": "git",
