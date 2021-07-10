@@ -10,6 +10,7 @@
   "editor.fontLigatures": true,
   "editor.formatOnSave": true,
   "editor.linkedEditing": true,
+  "eslint.alwaysShowStatus": true,
   "editor.scrollBeyondLastColumn": 2,
   "editor.smoothScrolling": true,
   "editor.tabSize": 2,
