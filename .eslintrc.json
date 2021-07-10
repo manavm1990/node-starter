@@ -8,5 +8,8 @@
     "ecmaVersion": 12,
     "sourceType": "module"
   },
-  "rules": {}
+  "rules": {
+    "capitalized-comments": "off",
+    "no-console": 1
+  }
 }
