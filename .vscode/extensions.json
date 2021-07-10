@@ -6,10 +6,7 @@
     "esbenp.prettier-vscode",
     "mgmcdermott.vscode-language-babel",
     "oderwat.indent-rainbow",
-    "pkief.material-icon-theme",
-    "equinusocio.vsc-material-theme",
     "stkb.rewrap",
-    "streetsidesoftware.code-spell-checker",
-    "visualstudioexptteam.vscodeintellicode"
+    "streetsidesoftware.code-spell-checker"
   ]
 }

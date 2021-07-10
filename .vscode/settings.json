@@ -19,9 +19,5 @@
   "files.eol": "\n",
   "files.trimTrailingWhitespace": true,
   "javascript.validate.enable": false,
-  "prettier.requireConfig": true,
-  "terminal.integrated.fontFamily": "'Inconsolata', 'Source Code Pro', monospace",
-  "workbench.colorTheme": "Material Theme",
-  "workbench.iconTheme": "material-icon-theme",
-  "workbench.view.alwaysShowHeaderActions": true
+  "prettier.requireConfig": true
 }
