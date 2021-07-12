@@ -2,28 +2,20 @@
   "name": "node-starter",
   "version": "1.0.0",
   "engines": {
-    "node": ">=14.0.0"
+    "node": ">=14.7.3"
   },
   "description": "Node Starter Repo",
   "private": true,
   "main": "app/index.js",
   "type": "module",
   "scripts": {
-    "start": "nodemon --watch app/index.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/manavm1990/node-starter"
+    "start": "nodemon -I --watch app/index.js"
   },
   "keywords": [
     "nodejs"
   ],
   "author": "Manav Misra",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/manavm1990/node-starter/issues"
-  },
-  "homepage": "https://github.com/manavm1990/node-starter#readme",
   "devDependencies": {
     "eslint": "^7.30.0",
     "eslint-config-prettier": "^8.3.0",
