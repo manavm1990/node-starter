@@ -6,7 +6,7 @@
   "main": "app/index.js",
   "type": "module",
   "scripts": {
-    "start": "nodemon -I --watch app/index.js"
+    "start": "nodemon -I --watch app"
   },
   "devDependencies": {
     "eslint": "^7.31.0",
