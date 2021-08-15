@@ -10,6 +10,7 @@
   },
   "rules": {
     "capitalized-comments": "off",
-    "no-console": 1
+    "no-console": 1,
+      "padding-line-between-statements": "warn"
   }
 }
