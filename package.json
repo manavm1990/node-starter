@@ -1,7 +1,4 @@
 {
-  "engines": {
-    "node": ">=14.7.3"
-  },
   "private": true,
   "main": "app/index.js",
   "type": "module",
