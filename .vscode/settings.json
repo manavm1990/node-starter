@@ -6,8 +6,6 @@
     "source.organizeImports": true
   },
   "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "editor.fontFamily": "'Victor Mono', 'Inconsolata', 'Source Code Pro', Menlo, Monaco, 'Courier New', monospace",
-  "editor.fontLigatures": true,
   "editor.formatOnSave": true,
   "editor.linkedEditing": true,
   "eslint.alwaysShowStatus": true,
