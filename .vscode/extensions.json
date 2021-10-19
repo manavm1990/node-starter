@@ -1,9 +1,7 @@
 {
   "recommendations": [
-    "aaron-bond.better-comments",
     "dbaeumer.vscode-eslint",
     "esbenp.prettier-vscode",
-    "mgmcdermott.vscode-language-babel",
-    "streetsidesoftware.code-spell-checker"
+    "mgmcdermott.vscode-language-babel"
   ]
 }
