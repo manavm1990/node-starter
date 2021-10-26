@@ -8,7 +8,6 @@
   },
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.formatOnSave": true,
-  "editor.linkedEditing": true,
   "eslint.alwaysShowStatus": true,
   "editor.scrollBeyondLastColumn": 2,
   "editor.smoothScrolling": true,
