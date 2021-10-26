@@ -1,5 +1,6 @@
 {
   "recommendations": [
+    "aaron-bond.better-comments",
     "dbaeumer.vscode-eslint",
     "donjayamanne.git-extension-pack",
     "esbenp.prettier-vscode",
