@@ -1,5 +1,6 @@
 {
   "better-comments.highlightPlainText": true,
+  "editor.bracketPairColorization.enabled": true,
   "editor.codeActionsOnSave": {
     "addMissingImports": true,
     "source.fixAll": true,
