@@ -13,10 +13,10 @@ Use of this starter template assumes that you have a 'complete dev environment' 
 
 - [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 - Various VS Code 'settings' and 'extensions.' Look in the bottom right when you open this up in VS Code to install them.
+- Jest for testing: `npm test`. It's using BabelJS so Jest can handle ESModules.
 
 ## How To Use
 
 Run `npm i` to get all the things installed.
 
 `npm start` will watch the `app` directory for any changes using `nodemon`
-
