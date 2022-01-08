@@ -10,6 +10,7 @@
   },
   "plugins": ["jest"],
   "rules": {
+    "array-callback-return": "warn",
     "capitalized-comments": "off",
     "no-console": 1,
     "padding-line-between-statements": "warn",
