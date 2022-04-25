@@ -20,3 +20,7 @@ Use of this starter template assumes that you have a 'complete dev environment' 
 Run `npm i` to get all the things installed.
 
 `npm start` will watch the `app` directory for any changes using `nodemon`
+
+## Other Notes
+
+To use the new experimental `fetch` that's now in Node, just add: `/* global fetch */` to the top of your file. This will appease ESLint.
