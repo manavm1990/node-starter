@@ -7,15 +7,15 @@
     "test": "jest"
   },
   "devDependencies": {
-    "@babel/core": "^7.18.0",
-    "@babel/preset-env": "^7.18.0",
+    "@babel/core": "^7.18.2",
+    "@babel/preset-env": "^7.18.2",
     "eslint": "^8.16.0",
     "eslint-config-prettier": "^8.5.0",
     "eslint-config-xo": "^0.41.0",
-    "eslint-plugin-jest": "^26.2.2",
+    "eslint-plugin-jest": "^26.4.2",
     "jest": "^28.0.3",
     "nodemon": "^2.0.16",
     "prettier": "^2.6.2",
-    "typescript": "^4.6.4"
+    "typescript": "^4.7.2"
   }
 }
