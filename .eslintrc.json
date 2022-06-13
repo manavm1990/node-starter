@@ -2,7 +2,7 @@
   "env": {
     "node": true
   },
-  "extends": ["xo", "plugin:jest/recommended", "prettier"],
+  "extends": ["xo", "plugin:jest/recommended", "plugin:jest/style", "prettier"],
   "parserOptions": {
     "ecmaVersion": "latest",
     "sourceType": "module"
