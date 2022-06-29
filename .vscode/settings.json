@@ -1,5 +1,4 @@
 {
-  "better-comments.highlightPlainText": true,
   "editor.bracketPairColorization.enabled": true,
   "editor.codeActionsOnSave": {
     "addMissingImports": true,
@@ -17,7 +16,6 @@
   "files.autoSave": "onFocusChange",
   "files.eol": "\n",
   "files.trimTrailingWhitespace": true,
-  "javascript.inlayHints.parameterNames.enabled": "none",
   "javascript.validate.enable": false,
   "prettier.requireConfig": true
 }
