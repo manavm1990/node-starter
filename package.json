@@ -3,7 +3,7 @@
   "main": "app/index.js",
   "type": "module",
   "scripts": {
-    "start": "nodemon -I --watch app",
+    "start": "nodemon --es-module-specifier-resolution=node -I --watch app",
     "test": "jest"
   },
   "devDependencies": {
