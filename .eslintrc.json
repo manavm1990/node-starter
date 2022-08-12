@@ -11,6 +11,7 @@
   "rules": {
     "array-callback-return": "warn",
     "capitalized-comments": "off",
+    "new-cap": "off",
     "no-console": 1,
     "padding-line-between-statements": "warn",
     "no-unused-vars": "warn"
