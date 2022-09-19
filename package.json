@@ -7,10 +7,10 @@
     "test": "vitest"
   },
   "devDependencies": {
-    "eslint": "^8.22.0",
+    "eslint": "^8.23.1",
     "eslint-config-prettier": "^8.5.0",
     "eslint-config-xo": "^0.42.0",
     "prettier": "^2.7.1",
-    "vitest": "^0.23.2"
+    "vitest": "^0.23.4"
   }
 }
