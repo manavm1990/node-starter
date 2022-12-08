@@ -2,8 +2,6 @@
   "recommendations": [
     "dbaeumer.vscode-eslint",
     "esbenp.prettier-vscode",
-    "meganrogge.template-string-converter",
-    "mgmcdermott.vscode-language-babel",
-    "orta.vscode-jest"
+    "meganrogge.template-string-converter"
   ]
 }
