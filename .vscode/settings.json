@@ -16,6 +16,5 @@
   "files.autoSave": "onFocusChange",
   "files.eol": "\n",
   "files.trimTrailingWhitespace": true,
-  "javascript.validate.enable": false,
-  "prettier.requireConfig": true
+  "javascript.validate.enable": false
 }
