@@ -19,7 +19,7 @@
     "no-console":[
       "warn",
       {
-        "allow": ["error", "info", "warn"]
+               "allow": ["error", "info", "table", "warn"]
       }
     ],
     "padding-line-between-statements": "warn",
