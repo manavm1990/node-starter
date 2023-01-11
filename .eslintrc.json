@@ -16,7 +16,12 @@
     "array-callback-return": "warn",
     "capitalized-comments": "off",
     "new-cap": "off",
-    "no-console": 1,
+    "no-console":[
+      "warn",
+      {
+               "allow": ["error", "info", "table", "warn"]
+      }
+    ],
     "padding-line-between-statements": "warn",
     "no-unused-vars": "warn"
   }
