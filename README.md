@@ -17,6 +17,16 @@ Use of this starter template assumes that you have a 'complete dev environment' 
 - Various VS Code 'settings' and 'extensions.' Look in the bottom right when you open this up in VS Code to install them.
 - [Vitest](https://vitest.dev/) for testing. Just do `npm test` or `npm t`.
 
+## Dependency Graph
+
+This project includes "dependency-cruiser". You can generate a dependency graph by running npm run dep-graph. This will be in SVG format by default. You can change this in the package.json file.
+
+Note: You must have Graphviz installed for this to work. You can install it using Homebrew on macOS with brew install graphviz.
+
+Here's an example of what the dependency graph looks like:
+
+![Dependency Graph](./dependency-graph.svg)
+
 ## How To Use
 
 Run `npm i` to get all the things installed.
