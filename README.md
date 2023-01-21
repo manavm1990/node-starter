@@ -11,8 +11,9 @@ Use of this starter template assumes that you have a 'complete dev environment' 
 
 ## Some of What's Included
 
+- [ESLint](https://eslint.org/) with the _Standard_ JS style guide.
 - [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
-- Various VS Code 'settings' and 'extensions.' Look in the bottom right when you open this up in VS Code to install them.
+- Various VS Code 'settings' and 'extensions.' Look in the bottom right when you open this up in VS Code to install them. The settings are responsible for auto-formatting on save (among other things), and the extensions are responsible for the auto-formatting.
 - [Vitest](https://vitest.dev/) for testing. Just do `npm test` or `npm t`.
 
 ## Dependency Graph
