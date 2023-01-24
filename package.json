@@ -3,6 +3,7 @@
   "main": "app/index.js",
   "type": "module",
   "scripts": {
+        "dep-graph": "depcruise --exclude \"^node_modules\" --output-type dot src | dot -T svg > dependency-graph.svg",
     "test": "vitest"
   },
   "devDependencies": {

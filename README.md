@@ -18,6 +18,8 @@ Use of this starter template assumes that you have a 'complete dev environment' 
 
 ## Dependency Graph
 
+`npm run dep-graph`
+
 This project includes "dependency-cruiser". You can generate a dependency graph by running npm run dep-graph. This will be in SVG format by default. You can change this in the package.json file.
 
 Note: You must have Graphviz installed for this to work. You can install it using Homebrew on macOS with brew install graphviz.
