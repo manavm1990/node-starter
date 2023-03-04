@@ -9,5 +9,12 @@ module.exports = {
     ecmaVersion: "latest",
     sourceType: "module",
   },
-  rules: {},
+  rules: {
+        "no-console":[
+      "warn",
+      {
+               "allow": ["error", "info", "table", "warn"]
+      }
+    ],
+  },
 };
